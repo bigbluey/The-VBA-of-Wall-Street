@@ -11,7 +11,7 @@ Utilize VBA scripting to analyze real stock market data for 3 consecutive years 
 * Display the ticker symbol to coincide with the total volume.
 
 
-### Challenge 2 - Moderate
+### Challenge 2 - Moderate:
 
 * Create a script that will loop through all the stocks and take the following info.
   * Yearly change from what the stock opened the year at to what the closing price was.
@@ -21,7 +21,7 @@ Utilize VBA scripting to analyze real stock market data for 3 consecutive years 
   * Include conditional formatting that will highlight positive change in green and negative change in red.
 
 
-### Challenge 3 - Hard
+### Challenge 3 - Hard:
 
 * The solution will include everything from the moderate challenge.
 * The solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".

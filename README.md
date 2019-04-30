@@ -27,13 +27,14 @@ Utilize VBA scripting to analyze real stock market data for 3 consecutive years 
 * The solution will also be able to locate the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 * Make the appropriate adjustments to the script that will allow it to run on every worksheet just by running it once.
 
+
 **2014 Stock Market Analysis Screenshot:** 
 ![](Images/Multiple%20Year%20Stock%20Data%202014.png)
 
+
 **2015 Stock Market Analysis Screenshot:** 
-![alt text][Results]
-[Results]: https://github.com/bigbluey/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202015.png? "Multiple Year Stock Data 2015 Screenshot"
+![](Images/Multiple%20Year%20Stock%20Data%202015.png)
+
 
 **2016 Stock Market Analysis Screenshot:** 
-![alt text][Results]
-[Results]: https://github.com/bigbluey/The-VBA-of-Wall-Street/blob/master/Images/Multiple%20Year%20Stock%20Data%202016.png? "Multiple Year Stock Data 2016 Screenshot"
+![](Images/Multiple%20Year%20Stock%20Data%202016.png)
